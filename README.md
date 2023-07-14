@@ -37,8 +37,10 @@
 - ### Interactive decoding: The calculator includes an interactive decoding feature that allows users to decode the encoded results effortlessly. By simply interacting with the interface, users can uncover the encoded answers and verify the accuracy of their calculations.
 
 # IMAGES
-![Image](Images/1.png) ![Image](Images/2.png)
-![Image](Images/3.png) ![Image](Images/4.png)
+![Image](Images/1.png)
+![Image](Images/2.png)
+![Image](Images/3.png)
+![Image](Images/4.png)
 
 # GETTING STARTED
 ### To start using Encoded Calculator application, follow these steps:
