@@ -42,6 +42,7 @@
 ![Image](EncodedCalculator\bin\Debug\Images\3.png)
 ![Image](EncodedCalculator\bin\Debug\Images\4.png)
 
+
 # GETTING STARTED
 ### To start using Encoded Calculator application, follow these steps:
 
