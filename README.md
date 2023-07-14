@@ -1,4 +1,4 @@
-> [![Purushottam Anand ???? on GitHub ?](https://github.com/creativepuru.png?size=100)](https://github.com/creativepuru "Purushottam Anand ???? on GitHub ?")
+> [![Purushottam Anand 🇮🇳 on GitHub ?](https://github.com/creativepuru.png?size=100)](https://github.com/creativepuru "Purushottam Anand 🇮🇳 on GitHub ?")
 
 <b>
 
@@ -13,6 +13,7 @@
 # 📚 Table of Contents
 ### 🔰 [ABOUT](#about)
 ### 🔰 [FEATURES](#features)
+### 🖼  [VISUALS](#visuals)
 ### 💻 [GETTING STARTED](#getting-started)
 ### 📣 [CONTRIBUTIONS 🤝](#contributing)
 ### 📲 [SOCIAL LINKS 💻](#social-links)
@@ -34,6 +35,12 @@
 - ### Basic arithmetic operations: The application supports essential arithmetic operations, including addition, subtraction, multiplication, and division. Users can input encoded values and obtain encoded results, which they can then decode to reveal the actual mathematical outcomes.
 
 - ### Interactive decoding: The calculator includes an interactive decoding feature that allows users to decode the encoded results effortlessly. By simply interacting with the interface, users can uncover the encoded answers and verify the accuracy of their calculations.
+
+# VISUALS
+![Image Description](EncodedCalculator\bin\Debug\Images\1.png)
+![Image Description](EncodedCalculator\bin\Debug\Images\2.png)
+![Image Description](EncodedCalculator\bin\Debug\Images\3.png)
+![Image Description](EncodedCalculator\bin\Debug\Images\4.png)
 
 # GETTING STARTED
 ### To start using Encoded Calculator application, follow these steps:
